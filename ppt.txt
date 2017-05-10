@@ -1,0 +1,40 @@
+1、数据库选择（mysql、oracle）
+
+
+
+2、mysql基本语法和常用函数
+  (1)、关键字、数据类型、事务、完整性约束、增删改查、语句执行顺序、比较运算符、多表查询
+  
+  数据类型
+  
+  事务
+  
+
+  
+  3、视图
+3、mysql索引原理和使用
+	索引原理
+	什么情况使用索引、什么情况不使用索引
+
+4、mysql优化
+
+如何分析sql的性能、执行计划
+
+5、常见问题
+
+1、乱码：字符集
+
+2、死锁
+3、sql注入
+
+
+参考网址：
+http://www.test404.com/post-1319.html  五个有用的东西
+
+
+https://juejin.im/entry/57a2a7e86be3ff006510907d MySQL 大表优化方案
+
+
+https://juejin.im/entry/575620b1128fe10056efc166	21 条最佳 MySQL 性能优化
+
+https://juejin.im/entry/590a973561ff4b00698921b8	MySQL 索引及查询优化总结
